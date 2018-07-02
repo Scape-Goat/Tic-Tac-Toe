@@ -2,7 +2,7 @@ td {
     border: 5px double blue;
     text-align: center;
     font-size: 80px;
-    
+    border-radius: 100px;
   }
   
   td:hover {
@@ -13,6 +13,7 @@ td {
   table {
     border: 5px double green;
     background: radial-gradient(violet, blue);
+    border-radius: 75px;
   }
   #turn{
     border: 5pt solid red
@@ -39,4 +40,5 @@ td {
     display: flex;
     flex-direction: column;
     justify-content: stretch;
+    border-radius: 100px;
   }
