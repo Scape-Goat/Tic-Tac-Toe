@@ -1,0 +1,42 @@
+td {
+    border: 5px double blue;
+    text-align: center;
+    font-size: 80px;
+    
+  }
+  
+  td:hover {
+    cursor: pointer;
+    background: radial-gradient(lightblue, blue);
+  }
+  
+  table {
+    border: 5px double green;
+    background: radial-gradient(violet, blue);
+  }
+  #turn{
+    border: 5pt solid red
+  }
+
+  .X{
+    background: radial-gradient(red,white)
+  }
+
+  .O{
+    background: radial-gradient(blue,white)
+  }
+
+
+  #Tic{
+    width: fit-content;
+    height: fit-content;
+    font-size: 30px;
+    text-align: center;
+    color: purple    ;
+    border: 5pt solid purple;
+    border-spacing: 0in;
+    background: radial-gradient(violet, blue  );
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+  }
