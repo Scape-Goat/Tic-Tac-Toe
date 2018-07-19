@@ -15,18 +15,6 @@ td {
     background: radial-gradient(violet, blue);
     border-radius: 75px;
   }
-  #turn{
-    border: 5pt solid red
-  }
-
-  .X{
-    background: radial-gradient(red,white)
-  }
-
-  .O{
-    background: radial-gradient(blue,white)
-  }
-
 
   #Tic{
     width: fit-content;
@@ -37,8 +25,8 @@ td {
     border: 5pt solid purple;
     border-spacing: 0in;
     background: radial-gradient(violet, blue  );
-    display: flex;
-    flex-direction: column;
-    justify-content: stretch;
     border-radius: 100px;
+  }
+  h1{
+    border: 1pt solid black
   }
